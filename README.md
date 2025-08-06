@@ -35,7 +35,6 @@
 | 🔗 [**EduConnect Hub**](https://github.com/manishhsuthar/Edu-connect_Hub) | Education Collaboration Platform     | React, Node.js, MongoDB      |
 | 🔗 [**ReachOut**](https://github.com/manishhsuthar/ReachOut) | College Community Help App           | Flask, Python                 |
 | 🔗 [**Lifeline Connect**](https://github.com/manishhsuthar/Lifeline-Connect) | Blood Donation Platform              | React, Firebase               |
-| 🔗 **Smart Study Desk**                                       | IoT-powered study desk                | React, Go, SQLite             |
 
 ---
 
