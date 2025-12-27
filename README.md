@@ -44,9 +44,10 @@
 
 | Project | Overview | Tech Stack |
 |-------|---------|-----------|
-| 🔗 **[EduConnect Hub](https://github.com/manishhsuthar/Edu-connect_Hub)** | Education collaboration & guidance platform | React, Node.js, MongoDB |
+| 🔗 **[EduConnect](https://github.com/manishhsuthar/EduConnect)** | Education collaboration & guidance platform | React, Node.js, MongoDB |
 | 🔗 **[ReachOut](https://github.com/manishhsuthar/ReachOut)** | College community help & support system | Flask, Python |
-| 🔗 **[Lifeline Connect](https://github.com/manishhsuthar/Lifeline-Connect)** | Blood donation & donor management platform | React, Firebase |
+| 🔗 **[LifelineConnect](https://github.com/manishhsuthar/Lifeline-Connect)** | Blood donation & donor management platform | React, Firebase |
+| 🔗 **[PathFinder](https://github.com/manishhsuthar/PathFinder)** | Performance Analysis & Career Recommendation | Django, React |
 
 <hr/>
 
