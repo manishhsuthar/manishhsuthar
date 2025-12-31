@@ -86,7 +86,7 @@
 
 - 🎧 Enjoys coding with music  
 - 💡 Built first project **before entering university**  
-- 📚 Currently learning **Three.js** for interactive 3D web experiences  
+- 📚 Currently learning **LLM MODELS** 
 
 <hr/>
 
