@@ -1,6 +1,6 @@
 <h1 align="left">Manish Suthar</h1>
 <p align="left">
-  <strong>Full-Stack Developer</strong> · React · Firebase · Modern Web Applications
+  <strong>Full-Stack Developer</strong> · React · Firebase · Modern Web Applications · Mobile Applications 
 </p>
  
 <p align="left">
