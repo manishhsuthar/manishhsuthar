@@ -50,17 +50,17 @@
 <h3>📈 GitHub Insights</h3>
 
 <table>
-  <!-- <tr>
+  <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=manishhsuthar&show_icons=true&theme=dracula&hide_border=true&border_radius=10" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishhsuthar&layout=compact&theme=dracula&hide_border=true&border_radius=10" />
     </td>
-  </tr> -->
+  </tr>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=manishhsuthar&theme=dracula&hide_border=true" />
+      <img src="https://streak-stats.demolab.com/streak?user=manishhsuthar&theme=dracula&hide_border=true" />
     </td>
     <td>
       <img src="https://roadmap.sh/card/wide/6870fde1dae46688ec0eee4c?variant=dark" />
