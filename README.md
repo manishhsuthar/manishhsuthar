@@ -40,12 +40,13 @@
 
 <hr/>
 
-<h3>About Me</h3>
-
-- Vibe coding
-- Builting solutions not projects
-- Learning about the World technologys with litle bit of llm and agentic ai
-- Controlled by AI  
+<h3 align="center">About Me</h3>
+<ul align="center">
+  <li> Vibe coding</li>
+  <li> Builting solutions not projects</li>
+  <li> Learning about the World technologys with litle bit of llm and agentic ai</li>
+  <li> Controlled by AI  </li>
+</ul>
 
 <hr/>
 <h3>Connect With Me</h3>
