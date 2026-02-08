@@ -66,5 +66,4 @@
 </p>
 
  **Email:** `manishsuthar.dev@gmail.com`
- </hr>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manishhsuthar&theme=tokyo-night&radius=16" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishhsuthar&theme=tokyo-night&radius=16" /> -->
