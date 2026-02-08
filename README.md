@@ -17,19 +17,19 @@
 
 <hr/>
 
-<h3>Project's I've Built</h3>
+<h3>Project's I've Built:</h3>
 
 | Personal Project | Overview | Language |
-|-------|---------|-----------|
+|-------|---------|:-----------:|
 | 🔗 **[EduConnect](https://github.com/manishhsuthar/EduConnect)** | Department communication chat platform | React, Expressjs, MongoDB |
-| 🔗 **[ReachOut](https://github.com/manishhsuthar/ReachOut)** | One message to multiple emails in once | Flask, Python |
 | 🔗 **[LifelineConnect](https://github.com/manishhsuthar/Lifeline-Connect)** | Blood donation & donor management platform (web) | React, Javascript |
-| 🔗 **[Billdrawer](https://github.com/manishhsuthar/BillDrawer)** | Store and manage all bill on user drive | Java |
+| 🔗 **[ReachOut](https://github.com/manishhsuthar/ReachOut)** | One message to multiple emails in once | Flask, Python |
 | 🔗 **[IntrioDesigns](https://github.com/manishhsuthar/InterioDesigns)** | Store and manage all bill on user drive | React, Django, Postgresql |
 | 🔗 **[PhotoBoth](https://github.com/manishhsuthar/StarWarsPhotoboth)** | Clicks photos with diffrent filters  | Html, Css, Javascript |
 | 🔗 **[AlarmClock](https://github.com/manishhsuthar/Rewear)** | Alarm seting with task allocation | Go |
-| 🔗 **[Bloodonet](https://github.com/manishhsuthar/BloodDonate)** | Blood donation & donor management platform (Application) | Java |
 | 🔗 **[Textsum](https://github.com/manishhsuthar/Textsum)** | Text file uploading platform | Html, Javascript |
+| 🔗 **[Billdrawer](https://github.com/manishhsuthar/BillDrawer)** | Store and manage all bill on user drive | Java |
+| 🔗 **[Bloodonet](https://github.com/manishhsuthar/BloodDonate)** | Blood donation & donor management platform (Application) | Java |
 
 | Contribution | Overview | Stack |
 |-------|---------|-----------|
