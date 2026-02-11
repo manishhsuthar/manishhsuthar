@@ -26,7 +26,7 @@
 | 🔗 **[ReachOut](https://github.com/manishhsuthar/ReachOut)** | One message to multiple emails in once | Flask, Python |
 | 🔗 **[IntrioDesigns](https://github.com/manishhsuthar/InterioDesigns)** | Store and manage all bill on user drive | React, Django, Postgresql |
 | 🔗 **[PhotoBoth](https://github.com/manishhsuthar/StarWarsPhotoboth)** | Clicks photos with diffrent filters  | Html, Css, Javascript |
-| 🔗 **[AlarmClock](https://github.com/manishhsuthar/Rewear)** | Alarm seting with task allocation | Go |
+| 🔗 **[AlarmClock](https://github.com/manishhsuthar/AlarmClock)** | Alarm seting with task allocation | Go |
 | 🔗 **[Textsum](https://github.com/manishhsuthar/Textsum)** | Text file uploading platform | Html, Javascript |
 | 🔗 **[Billdrawer](https://github.com/manishhsuthar/BillDrawer)** | Store and manage all bill on user drive | Java |
 | 🔗 **[Bloodonet](https://github.com/manishhsuthar/BloodDonate)** | Blood donation & donor management platform (Application) | Java |
