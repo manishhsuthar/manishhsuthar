@@ -29,7 +29,7 @@
 | 🔗 **[AlarmClock](https://github.com/manishhsuthar/AlarmClock)** | Alarm seting with task allocation | Go |
 | 🔗 **[Textsum](https://github.com/manishhsuthar/Textsum)** | Text file uploading platform | Html, Javascript |
 | 🔗 **[Billdrawer](https://github.com/manishhsuthar/BillDrawer)** | Store and manage all bill on user drive | Java |
-| 🔗 **[Bloodonet](https://github.com/manishhsuthar/BloodDonate)** | Blood donation & donor management platform (Application) | Java |
+| 🔗 **[Bloodonate](https://github.com/manishhsuthar/BloodDonate)** | Blood donation & donor management platform (Application) | Java |
 
 | Contribution | Overview | Stack |
 |-------|---------|-----------|
