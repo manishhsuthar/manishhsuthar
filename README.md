@@ -22,7 +22,7 @@
 | Personal Project | Overview | Language |
 |-------|---------|:-----------:|
 | 🔗 **[EduConnect](https://github.com/manishhsuthar/EduConnect)** | Department communication chat platform | React, Expressjs, MongoDB |
-| 🔗 **[LifelineConnect](https://github.com/manishhsuthar/Lifeline-Connect)** | Blood donation & donor management platform (web) | React, Javascript |
+| 🔗 **[LifelineConnect](https://github.com/manishhsuthar/LifelineConnect)** | Blood donation & donor management platform (web) | React, Javascript |
 | 🔗 **[ReachOut](https://github.com/manishhsuthar/ReachOut)** | One message to multiple emails in once | Flask, Python |
 | 🔗 **[IntrioDesigns](https://github.com/manishhsuthar/InterioDesigns)** | Store and manage all bill on user drive | React, Django, Postgresql |
 | 🔗 **[PhotoBoth](https://github.com/manishhsuthar/StarWarsPhotoboth)** | Clicks photos with diffrent filters  | Html, Css, Javascript |
