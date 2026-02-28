@@ -36,6 +36,7 @@
 | 🔗 **[PathFinder](https://github.com/manishhsuthar/PathFinder)** | Performance Analysis & Career Recommendation | Django REST + React + PostgreSQL |
 | 🔗 **[Rewear](https://github.com/manishhsuthar/Rewear)** | Cloth Swaping Platform | Django REST + React + PostgreSQL |
 | 🔗 **[DayFllow](https://github.com/manishhsuthar/Dayfllow)** | Office managment platform | Django REST + React + PostgreSQL |
+| 🔗 **[NoSnooze](https://github.com/manishhsuthar/NoSnooze)** | AlarmClock Application | Kotlin |
 
 
 <hr/>
