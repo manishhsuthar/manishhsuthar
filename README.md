@@ -25,6 +25,7 @@
 | 🔗 **[LifelineConnect](https://github.com/manishhsuthar/LifelineConnect)** | Blood donation & donor management platform (web) | React, Javascript |
 | 🔗 **[ReachOut](https://github.com/manishhsuthar/ReachOut)** | One message to multiple emails in once | Flask, Python |
 | 🔗 **[IntrioDesigns](https://github.com/manishhsuthar/InterioDesigns)** | Store and manage all bill on user drive | React, Django, Postgresql |
+| 🔗 **[Inventory-software](https://github.com/manishhsuthar/inventory-app)** | Store and manage all inventory on user cloud | React, Node.js, Postgresql |
 | 🔗 **[PhotoBoth](https://github.com/manishhsuthar/StarWarsPhotoboth)** | Clicks photos with diffrent filters  | Html, Css, Javascript |
 | 🔗 **[AlarmClock](https://github.com/manishhsuthar/AlarmClock)** | Alarm seting with task allocation | Go |
 | 🔗 **[Textsum](https://github.com/manishhsuthar/Textsum)** | Text file uploading platform | Html, Javascript |
