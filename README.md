@@ -43,7 +43,7 @@
 <hr/>
 
 <h3 align="center">About Me</h3>
-<ul align="center">
+<ul align="left">
   <li> Vibe coding</li>
   <li> Builting solutions not projects</li>
   <li> Learning about the World technologys with litle bit of llm and agentic ai</li>
