@@ -3,7 +3,7 @@
   <strong>Full-Stack Developer</strong>
 </p>
 <p align="center">
-  React · Firebase · Modern Web Applications · Mobile Applications 
+  React · Django · Modern Web Applications · Mobile Applications 
 </p>
  
 <p align="right">
