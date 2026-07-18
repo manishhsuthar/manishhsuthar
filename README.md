@@ -31,10 +31,13 @@
 | 🔗 **[Textsum](https://github.com/manishhsuthar/Textsum)** | Text file uploading platform | Html, Javascript |
 | 🔗 **[Billdrawer](https://github.com/manishhsuthar/BillDrawer)** | Store and manage all bill on user drive | Java |
 | 🔗 **[Bloodonate](https://github.com/manishhsuthar/BloodDonate)** | Blood donation & donor management platform (Application) | Java |
+| 🔗 **[EmailAgent](https://github.com/manishhsuthar/EmailAgent)** | Daily Email Checker and Summerizer With local Model | python |
 
 | Contribution | Overview | Stack |
 |-------|---------|-----------|
 | 🔗 **[PathFinder](https://github.com/manishhsuthar/PathFinder)** | Performance Analysis & Career Recommendation | Django REST + React + PostgreSQL |
+| 🔗 **[Cafe-POS](https://github.com/PointerLab/odoo-cafe)** | Cafe Order Management And Point of Sale System  | Django REST + React + PostgreSQL |
+| 🔗 **[TraveLoop](https://github.com/manishhsuthar/TraveLoop)** | Journey And itenary Planner | Django REST + React + PostgreSQL |
 | 🔗 **[Rewear](https://github.com/manishhsuthar/Rewear)** | Cloth Swaping Platform | Django REST + React + PostgreSQL |
 | 🔗 **[DayFllow](https://github.com/manishhsuthar/Dayfllow)** | Office managment platform | Django REST + React + PostgreSQL |
 | 🔗 **[NoSnooze](https://github.com/manishhsuthar/NoSnooze)** | AlarmClock Application | Kotlin |
